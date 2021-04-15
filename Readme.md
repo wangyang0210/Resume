@@ -1,6 +1,10 @@
 # Resume
 一款使用uniapp和colorUI编写的个人简历，欢迎isse和star
 
+<img src="./static/imgs/minicode.jpg"/>
+
+# 
+
 # TODO
 1. 后台代码编写
 2. 前后端整合
