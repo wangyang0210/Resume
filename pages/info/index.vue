@@ -13,7 +13,7 @@
 				<view class="cu-item shadow">
 					<view class="cu-list menu-avatar">
 						<view class="cu-item">
-							<view class="cu-avatar round lg"  @click="stroke" style="background-image:url(../../static/imgs/avatar.jpg);"></view>
+							<view class="cu-avatar round lg"  @click="stroke" style="background-image:url('https://cdn.jsdelivr.net/gh/wangyang0210/pic//imgs/avatar.jpg');"></view>
 							<view class="content flex-sub">
 								<view>{{card.name}}</view>
 								<view class="text-gray text-sm flex justify-between">
@@ -104,7 +104,7 @@
 				<view class="cu-item shadow">
 					<view class="cu-list menu-avatar comment solids-top">
 						<view class="cu-item">
-							<view class="cu-avatar round" style="background-image:url(../../static/imgs/avatar.jpg);"></view>
+							<view class="cu-avatar round" style="background-image:url('https://cdn.jsdelivr.net/gh/wangyang0210/pic//imgs/avatar.jpg');"></view>
 							<view class="content">
 								<view class="text-grey">{{introSelf.name}}</view>
 								<view class="bg-grey padding-sm radius margin-top-sm  text-sm">

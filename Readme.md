@@ -27,6 +27,16 @@ npm install
 
 <img src="https://user-images.githubusercontent.com/36377605/114949474-ac169e80-9e83-11eb-87ce-69c2c1ee2cef.png">
 
+# 配置服务器域名
+
+>小程序的图片只支持网络图片或者base64编码图片,所以我们需要配置下服务器域名
+
+登录微信小程序后台,`开发`->`开发管理`->`开发设置`->`服务器域名`
+<img src="https://cdn.jsdelivr.net/gh/wangyang0210/pic//imgs/miniprogram_server.png">
+
+# 搭建图床教程
+
+[PicGo](https://www.cnblogs.com/wangyang0210/p/14590373.html)
 
 # TODO
 1. 后台代码编写
