@@ -152,6 +152,7 @@
 <script>
 	import customerServer from "@/components/customerServer.vue";
 	import { printText } from '@/mixins/index.js'
+	import { resumeInfo } from '@/data/data.js'
 	export default {
 		mixins: [printText],
 		components:{
@@ -248,7 +249,7 @@
 					],
 					introSelf: {
 						'name': '王洋洋',
-						'selfAssessment': '自我驱动力强，具有很强的分析问题和解决复杂问题的能力，有强烈的责任心和使命感，良好的沟通表达能力和团队写作能力。'
+						'selfAssessment': '自我驱动力强，具有很强的分析问题和解决复杂问题的能力，有强烈的责任心和使命感，良好的沟通表达能力和团队协作能力。'
 					},
 					workInfo: [
 						

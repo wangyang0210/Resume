@@ -8,10 +8,6 @@
         {
             "path" : "pages/info/index",
             "style" : {}
-        },
-        {
-            "path" : "pages/info/bar",
-            "style" : {}
         }
     ],
     "globalStyle" : {

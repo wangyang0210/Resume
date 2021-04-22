@@ -11,12 +11,13 @@
 <script>
 	
 	import { printText } from '@/mixins/index.js'
+	import { info } from '@/data/data.js'
 	export default {
 		mixins: [printText],
 		data() {
 			return {
 					windowHeight:0,
-					info: ['王洋洋','前端开发工程师','王洋洋'],
+					info: info,
 					 obj: {
 					        output: '',
 							type: 'normal',

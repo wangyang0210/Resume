@@ -5,6 +5,10 @@
 
 >因为当时没有使用vue-cli创建,所以需要使用HBuilderX进行开发
 
+# data.js
+克隆项目之后只需要将`data/data.js`中的信息替换成自己的即可;
+
+
 # Build
 
 ```
@@ -39,10 +43,9 @@ npm install
 [PicGo](https://www.cnblogs.com/wangyang0210/p/14590373.html)
 
 # TODO
-1. 后台代码编写
+1. 后台代码编写[进行中 |  使用ThinkAdmin进行编写]
 2. 前后端整合
-3. 多平台部署
-4. 搭建在线生成多平台简历网站
+3. 搭建在线生成多平台简历网站
 
 # Author
 **Resume**©[wangyang0210](https://github.com/wangyang0210)，Released under the [MIT](./LICENSE) License.<br>
