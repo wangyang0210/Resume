@@ -17,14 +17,14 @@
 		data() {
 			return {
 					windowHeight:0,
-					info: info,
-					 obj: {
-					        output: '',
-							type: 'normal',
-							backSpeed: 40,
-							singleBack: true,
-							sleep:3000
-					      }
+					info,
+					obj: {
+						output: '',
+						type: 'normal',
+						backSpeed: 40,
+						singleBack: true,
+						sleep:3000
+					  }
 				}
 		},
 		
