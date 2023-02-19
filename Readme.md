@@ -42,11 +42,6 @@ npm install
 
 [PicGo](https://www.cnblogs.com/wangyang0210/p/14590373.html)
 
-# TODO
-1. 后台代码编写[进行中 |  使用ThinkAdmin进行编写]
-2. 前后端整合
-3. 搭建在线生成多平台简历网站
-
 # Author
 **Resume**©[wangyang0210](https://github.com/wangyang0210)，Released under the [MIT](./LICENSE) License.<br>
 > Blog [@Blog](https://www.cnblogs.com/wangyang0210/) · GitHub [@GitHub](https://github.com/wangyang0210) · Email wangyang.0210@foxmail.com
